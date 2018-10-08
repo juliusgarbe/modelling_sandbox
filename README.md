@@ -5,8 +5,8 @@ This repository contains simple examples of SIA-based ice-sheet models aimed to 
 
 - `introduction_to_numerical_ice_sheet_modelling.ipynb`: Contains examples for simple diffusion and advection models (FTCS) as well as a simple ice-sheet model based on the Shallow Ice Approximation (SIA).
 
-### Usage
-For more info on Jupyter Notebooks click [here](https://jupyter.org).
+### Requirements
+For more details on Jupyter Notebooks click [here](https://jupyter.org).
 
 ### Author
 [Julius Garbe](mailto:julius.garbe@pik-potsdam.de), Potsdam Institute for Climate Impact Research
