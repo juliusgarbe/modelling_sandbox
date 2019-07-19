@@ -14,6 +14,8 @@ The code is written in [Python 3](https://www.python.org). To run it you need [N
 The [Jupyter](https://jupyter.org) notebook format (`.ipynb`) containes all code and figures along with the underlying mathematical equations and some text. If you haven't used this before, you may have a look [here](https://jupyter.readthedocs.io/en/latest/install.html).
 
 ### Gallery
+![](vialov.png)
+![](slopedbed.png)
 
 ### Author
 [Julius Garbe](mailto:julius.garbe@pik-potsdam.de), Potsdam Institute for Climate Impact Research
