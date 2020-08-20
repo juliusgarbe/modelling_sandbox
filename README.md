@@ -11,7 +11,8 @@ This repository contains Python code examples of simple SIA-based ice sheet mode
 ### Requirements & dependencies
 The code is written in [Python 3](https://www.python.org). To run it you need [NumPy](https://numpy.org) to be installed, as well as [Matplotlib](https://matplotlib.org) for plotting, and the Python `time` module for some statistics.
 
-The [Jupyter](https://jupyter.org) notebook format (`.ipynb`) containes all code and figures along with the underlying mathematical equations and some text. If you haven't used this before, you may have a look [here](https://jupyter.readthedocs.io/en/latest/install.html).
+The [Jupyter](https://jupyter.org) notebook format (`.ipynb`) containes all code and figures along with the underlying mathematical equations and some text (see example screenshot below). If you haven't used this before, you may have a look [here](https://jupyter.readthedocs.io/en/latest/install.html).
+
 ![Screenshot](images/screenshot.png)
 
 ### Gallery
